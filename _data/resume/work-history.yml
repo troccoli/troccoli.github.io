@@ -1,11 +1,9 @@
-- experience:
-  role: "Senior Laravel Developer / Backend Team Lead"
+- role: "Senior Laravel Developer / Backend Team Lead"
   time: "October 2021 - April 2024"
   company: CareLineLive, London
   details: "
   <p>I joined CareLineLive as a Senior Laravel Developer, but after a few months I was offered the opportunity to line
-  manage a small team of two backend developers, along my other responsibilities as developer. I accepted because
-  that was, and still is, the role I see myself into at this time in my career.
+  manage a small team of two backend developers, along my other responsibilities as developer.
   </p>
   <p>In my role as a developer I was heavily involved high-level analysis, technical design, and of course implementation.
   But I would also manage the Jira tickets, creating them, making sure they were groomed and ready for development,
@@ -19,8 +17,7 @@
   setting up objectives, making sure absence were recorded, etc. I also took an active part in recruiting our latest
   developer by reviewing the applications, and setting up and be part of the interviewing process.
   </p>"
-- experience:
-  role: PHP Developer
+- role: PHP Developer
   time: October 2020 - October 2021
   company: Bumble, London
   details: "
@@ -30,8 +27,7 @@
   <p>They were however on a journey to Agile, and I was able to introduce retrospective meetings which were very much
   welcomed.
   </p>"
-- experience:
-  role: Applications Developer
+- role: Applications Developer
   time: October 2018 - October 2020
   company: Shopworks, London
   details: "
@@ -52,8 +48,7 @@
   to decrease the ticket resolution time by 10%. The clients were also better informed on the activity of their tickets
   which resulted in a reduction of 20% of duplicate tickets raised.
   </p>"
-- experience:
-  role: Lead Backend Developer
+- role: Lead Backend Developer
   time: April 2017 - August 2018
   company: London Review of Books, London
   details: "
@@ -71,8 +66,7 @@
   and to setup a roadmap for the project</li>
   <li>managed the team's workload in terms of sprint deliverables and project goals</li>
   </ul>"
-- experience:
-  role: Web Developer
+- role: Web Developer
   time: January 2016 - December 2016
   company: City A.M., London
   details: "
@@ -83,8 +77,7 @@
   <p>I also wrote many RESTful APIs, in Lumen, for a SPA. This was the first time I used a Design First approach,
   with Swagger.
   </p>"
-- experience:
-  role: PHP Developer
+- role: PHP Developer
   time: January 2011 - October 2015
   company: Mediatel, London
   details: "
@@ -99,8 +92,7 @@
   <p>Finally, during my last couple of years at Mediatel, I mentored a Junior Developer on Mediatel products, our coding
   standards, Zend Framework and general OOPHP.
   </p>"
-- experience:
-  role: Analyst Programmer / Technical Consultant
+- role: Analyst Programmer / Technical Consultant
   time: March 2001 - December 2010
   company: Linedata Services (UK) Ltd, London
   details: "

@@ -1,0 +1,42 @@
+{% if site.data.resume.work-history %}
+<section class="section jobs-section">
+  <h2 class="section-title">
+    <span class="fa-layers fa-fw fa-lg">
+      <i class="fas fa-circle fa-lg"></i>
+      <i class="fa-inverse fas fa-briefcase fa-lg" data-fa-transform="shrink-8"></i>
+    </span>
+    Work history
+  </h2>
+
+{% for job in site.data.resume.work-history %}
+  <div class="item">
+
+    <div class="meta">
+
+      <div class="upper-row">
+        <h3 class="job-title">{{ job.role }}</h3>
+        <div class="time">{{ job.time }}</div>
+      </div><!--//upper-row-->
+
+      <div class="company">{{ job.company }}</div>
+
+    </div><!--//meta-->
+    {% if job.tools %}
+    <div class="tools">
+      {% for tool in job.tools %}
+      <span class="badge badge-pill badge-primary">{{ tool }}</span>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    {% if job.details %}
+    <div class="details">
+      <p>{{ job.details }}</p>
+    </div><!--//details-->
+    {% endif %}
+
+  </div><!--//item-->
+{% endfor %}
+
+</section><!--//section-->
+{% endif %}

@@ -363,9 +363,9 @@ resume:
   title: My Resume
   url: 'https://troccoli.it/resume/'
   baseurl: '/resume' #change it according to your repository name
-  last_update: '25 June 2024'
+  last_update: '11 July 2024'
 
-  pdf: "troccoli-allard-resume-20240625.pdf"
+  pdf: "troccoli-allard-resume-20240711.pdf"
   # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
   style: orbit-6
 
