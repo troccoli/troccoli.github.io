@@ -9,15 +9,15 @@
 
 - type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-  url:  ''                  # Fill with your Linkedin homepage
+  url:  'https://www.linkedin.com/in/giulio-troccoli'                  # Fill with your Linkedin homepage
 
 - type: stack-overflow
   icon: 'fab fa-stack-overflow'
-  url:  ''                  # Fill with your stackoverflow homepage
+  url:  'https://stackoverflow.com/users/1366144/giuliot'                  # Fill with your stackoverflow homepage
 
 - type: bluesky
   icon: 'fa-brands fa-bluesky'
-  url: ''                   # Fill with your Bluesky profile link
+  url: 'https://bsky.app/profile/giulio.troccoli.it'                   # Fill with your Bluesky profile link
 
 #- type: twitter
 #  icon: "fa-brands fa-x-twitter"
