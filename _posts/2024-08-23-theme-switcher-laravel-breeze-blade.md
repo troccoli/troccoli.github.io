@@ -32,7 +32,8 @@ Spoiler alert, it's not all my original work.
 I noticed that Laravel itself already comes with a theme switcher. If you get an error or an exception, Laravel displays
 something like the following:
 
-![Screenshot of how Laravel renders an error or exception](assets/img/laravel-exception-screen.png)
+![Screenshot of how Laravel renders an error or exception](assets/img/theme-switcher-laravel-breeze-blade/laravel-exception-screen-light.png){: .light }
+![Screenshot of how Laravel renders an error or exception](assets/img/theme-switcher-laravel-breeze-blade/laravel-exception-screen-dark.png){: .dark }
 
 Did you notice the little sun icon (or moon icon if you're using dark mode) in the top-right corner? That's the Laravel's
 theme switcher. That's a good start, I can leverage it and adapt it to my case.
@@ -150,7 +151,8 @@ email. So, add the following in the "Settings dropdown" section, just inside the
 ```
 This is what the switcher will look like:
 
-![Screenshot of how the theme switcher appears on large screens](assets/img/theme-switcher-on-large-screen.png)
+![Screenshot of how the theme switcher appears on large screens](assets/img/theme-switcher-laravel-breeze-blade/theme-switcher-on-large-screen-light.png){: .light }
+![Screenshot of how the theme switcher appears on large screens](assets/img/theme-switcher-laravel-breeze-blade/theme-switcher-on-large-screen-dark.png){: .dark }
 
 Finally, let's add the switcher on small screens too. So in the *Responsive Navigation Menu* section but just before
 the *Responsive Settings Options* section, add the following:
@@ -175,4 +177,5 @@ the *Responsive Settings Options* section, add the following:
 ```
  And this is what it will look like:
 
-![Screenshot of how the theme switcher appears on small screens](assets/img/theme-switcher-on-small-screen.png)
+![Screenshot of how the theme switcher appears on small screens](assets/img/theme-switcher-laravel-breeze-blade/theme-switcher-on-small-screen-light.png){: .light }
+![Screenshot of how the theme switcher appears on small screens](assets/img/theme-switcher-laravel-breeze-blade/theme-switcher-on-small-screen-dark.png){: .dark }
